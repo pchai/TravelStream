@@ -1,4 +1,4 @@
 TravelStream
 ============
 
-Web Application for Travel Photos
+Web Application for managing travel photos
